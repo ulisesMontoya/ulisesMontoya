@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ulises Jafet Montoya Varela
 
-<!--
-**ulisesMontoya/ulisesMontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero en software, actualmente estudiando en la Universidad Autónoma de Zacatecas. Me especializo en el desarrollo de aplicaciones móviles con **Flutter** y aplicaciones web con **Django**. Últimamente, he trabajado en proyectos enfocados en **tracking** y visión por computadora.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 He desarrollado aplicaciones móviles con **Flutter**.
+- 🌐 Experiencia en desarrollo web con **Django**.
+- 🎯 Último proyecto: Traducción de código Morse a texto usando **CNN y visión por computadora** para detectar parpadeos.
+- 🧠 Actualmente, en mi servicio social en el **Laboratorio de Óptica y Visión** de la Universidad Autónoma de Zacatecas, trabajando con **Deep Learning, RNN y LSTM** para predecir la cantidad de lluvia en áreas demográficas.
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes principales:** Python, Java, Dart.
+- **Frameworks y herramientas:** Flutter, Supabase.
+- 🔗 Conexiones API con herramientas de Google.
+
+## 📌 Proyectos Destacados
+
+Aquí encontrarás algunos de mis proyectos más importantes:
+
+- 🔍 **Visión por Computadora**
+- 🎾 **Aplicación de Tenis**
+- 🎬 **Aplicación de Películas**
+
+## 🌍 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ulises_Jafet_Montoya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
+
+## ✨ Frase inspiradora
+
+> *El dolor es temporal, el orgullo y la victoria son para siempre.*

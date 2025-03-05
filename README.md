@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ulises Jafet Montoya Varela
 
-Soy ingeniero en software, actualmente estudiando en la Universidad Autónoma de Zacatecas. Me especializo en el desarrollo de aplicaciones móviles con **Flutter** y aplicaciones web con **Django**. Últimamente, he trabajado en proyectos enfocados en **tracking** y visión por computadora.
+Soy ingeniero en software, actualmente estudiando en la Universidad Autónoma de Zacatecas.He desarrollo aplicaciones móviles con **Flutter** y aplicaciones web con **Django**. Últimamente, he trabajado en proyectos enfocados en **tracking** y visión por computadora.
 
 ## 🚀 Sobre mí
 
@@ -15,17 +15,9 @@ Soy ingeniero en software, actualmente estudiando en la Universidad Autónoma de
 - **Frameworks y herramientas:** Flutter, Supabase.
 - 🔗 Conexiones API con herramientas de Google.
 
-## 📌 Proyectos Destacados
-
-Aquí encontrarás algunos de mis proyectos más importantes:
-
-- 🔍 **Visión por Computadora**
-- 🎾 **Aplicación de Tenis**
-- 🎬 **Aplicación de Películas**
-
 ## 🌍 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ulises_Jafet_Montoya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ulises_Jafet_Montoya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/montoya-varela-ulises-jafet-573ba929a/)
 
 ## ✨ Frase inspiradora
 
